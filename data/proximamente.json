@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Remera",
+    "titulo": "Remera",
+    "precio": 47000,
+    "img": "./img/remera.PNG"
+  },
+  {
+    "id": "Top",
+    "titulo": "Top",
+    "precio": 12500,
+    "img": "./img/LOBKE2160.JPG"
+  },
+  {
+    "id": "Medias",
+    "titulo": "Medias",
+    "precio": 16200,
+    "img": "./img/MZSUE5547.JPG"
+  },
+  {
+    "id": "sogaplastico",
+    "titulo": "Soga de plastico",
+    "precio": 21000,
+    "img": "./img/LUGPE3806.JPG"
+  },
+  {
+    "id": "Tape",
+    "titulo": "Tape",
+    "precio": 10000,
+    "img": "./img/MNUEE2649.JPG"
+  },
+  {
+    "id": "Straps",
+    "titulo": "Straps",
+    "precio": 13200,
+    "img": "./img/CBCJE5768.JPG"
+  }
+]

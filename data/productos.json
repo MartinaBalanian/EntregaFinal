@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Mochila",
+    "titulo": "Mochila",
+    "precio": 47000,
+    "img": "./img/IMG_E3128.JPG"
+  },
+  {
+    "id": "Muñequera",
+    "titulo": "Muñequeras",
+    "precio": 12500,
+    "img": "./img/IMG_E3129.JPG"
+  },
+  {
+    "id": "Rodilleras",
+    "titulo": "Rodilleras",
+    "precio": 16200,
+    "img": "./img/IMG_E3130.JPG"
+  },
+  {
+    "id": "Proteina",
+    "titulo": "Proteina",
+    "precio": 21000,
+    "img": "./img/IMG_E3131.JPG"
+  },
+  {
+    "id": "Soga",
+    "titulo": "Soga",
+    "precio": 10000,
+    "img": "./img/IMG_E3132.JPG"
+  },
+  {
+    "id": "Conjunto",
+    "titulo": "Conjunto",
+    "precio": 63000,
+    "img": "./img/IMG_1935.PNG"
+  }
+]
